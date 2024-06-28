@@ -1,0 +1,1 @@
+This React project uses Firebase and Google Maps to manage markers on the map. Users can add new markers by clicking on the map and delete them as well. Marker data is stored in Firebase Firestore.
